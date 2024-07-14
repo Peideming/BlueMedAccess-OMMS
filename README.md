@@ -1,2 +1,3 @@
 # BlueMedAccess-OMMS
 BlueMedAccess-Outpatient medical management system
+It is a comprehensive management system designed for outpatient medical environment. The system aims to optimize the daily operation process of medical institutions through digital means, improve patient satisfaction, enhance the work efficiency of medical staff, and ensure the safety and accuracy of medical data. BlueMedAccess-OMMS integrates a number of functional modules such as appointment registration, medical record management, diagnostic records, drug prescription, cost settlement, report inquiry and data analysis, and provides one-stop solutions for medical institutions.
